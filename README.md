@@ -1,1 +1,2 @@
-# .github
+# Group 46
+Welcome
