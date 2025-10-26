@@ -1,2 +1,2 @@
 # Group 46
-Welcome
+Welcome to the Group 46 Github Organization Page!
